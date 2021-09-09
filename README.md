@@ -3,7 +3,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/aledev21/dt-money?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/Nikolas-as/DT_Money?style=for-the-badge)
 
-  ![img](https://imgur.com/a/RnCzWwb)
+  ![img](<blockquote class="imgur-embed-pub" lang="en" data-id="a/RnCzWwb"  ><a href="//imgur.com/a/RnCzWwb">Dtmoney </a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
 
 
   
