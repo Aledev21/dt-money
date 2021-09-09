@@ -1,6 +1,6 @@
 # DtMoney
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Nikolas-as/DT_Money?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/aledev21/dt-money?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/Nikolas-as/DT_Money?style=for-the-badge)
 
 <img src="/src/assets/dtmoney.PNG" alt="exemplo imagem">
